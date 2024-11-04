@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            ToDo.Show();
+            BankomatHistorik.ShowMeny();
         }
     }
 }
